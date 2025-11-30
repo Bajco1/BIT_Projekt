@@ -59,7 +59,7 @@ Po reštarte sa prihláste do systému. Pôvodný konfiguračný súbor vygenero
 
 Stiahnite tento repozitár (alebo len súbor docker-compose.yml):
 
-git clone <URL_TOHTO_REPOZITARA> custom-tpot
+git clone https://github.com/Bajco1/BIT_Projekt custom-tpot
 
 Nahraďte konfiguráciu:
 
