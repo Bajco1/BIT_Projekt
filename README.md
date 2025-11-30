@@ -47,7 +47,7 @@ sudo apt-get update && sudo apt-get install git -y
 Následne naklonujte oficiálny repozitár T-Pot a spustite inštalátor. Tento krok je nevyhnutný pre prípravu závislostí, Docker prostredia a systémových nastavení.
 
 ```bash
-git clone [https://github.com/telekom-security/tpotce](https://github.com/telekom-security/tpotce)
+git clone https://github.com/telekom-security/tpotce
 cd tpotce/iso/installer/
 sudo ./install.sh --type=user
 ```
